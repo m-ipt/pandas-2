@@ -2,7 +2,7 @@
 
 Projeto desenvolvido pelo curso [Pandas: seleção e agrupamento de dados](https://cursos.alura.com.br/course/pandas-selecao-agrupamento-dados), na plataforma da **[Alura](https://www.alura.com.br/)**.
 
-<div align='center' style='display: inline_block'><img src="https://i.imgur.com/ltsmuU3.gif" alt="Gif do notebook do projeto"></div>
+<div align='center' style='display: inline_block'><img src="https://i.imgur.com/ovD33Yo.gif" alt="Gif do notebook do projeto"></div>
 
 ## Sobre o projeto
 No curso nós fazemos parte de um órgão que faz a fiscalização ambiental no país. Foram criadas tabelas e gráficos para analisar a emissão de gases do efeito estufa no Brasil. Com a *ciência de dados* nós estamos aptos a responder as perguntas feitas sobre os efeitos dos gases.
