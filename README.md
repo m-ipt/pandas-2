@@ -28,6 +28,8 @@ Você pode fazer um `git clone` do repositório para a sua máquina e abrir os n
 
 **Importante**: para importar a base de dados eu importei a partir do `import io` e mais comandos. É possível ver isso na parte "Fazendo a leitura dos dados" do notebook. No curso isso não foi demonstrado, contudo, basta importar normalmente. Ao fazer o `git clone` todos arquivos vão para sua máquina e a base estará presente - ou seja, ao selecionar o botão que aparece pelo `files.upload()`, faça upload do arquivo `.xlsx`.
 
+Você também pode ver o notebook online. Basta clicar [aqui](https://colab.research.google.com/drive/1_So0iduKMQkNbKNTklfN1MWKKo8KaETH?usp=sharing).
+
 ## Licença
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
